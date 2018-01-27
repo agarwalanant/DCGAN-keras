@@ -1,6 +1,6 @@
 # DCGAN-keras
 Implementation of a Deep Convolutional Generative Adversarial Network using keras with tensorflow backend.
-The generate image file contains the results plotted using matplotlib.
+The generate_image.ipynb noteboook contains the generated images plotted using matplotlib.
 
 Requirements :
 Jupyter Notebook
